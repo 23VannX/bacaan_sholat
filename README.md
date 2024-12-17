@@ -1,9 +1,7 @@
 ## Membuat Aplikasi Bacaan Sholat dengan Flutter
 Berisikan Niat-niat Sholat Wajib, Bacaan Sholat dan Ayat Kursi
 
-<img src="screenshot/bacaansholat_azharrivaldi.png" data-canonical-src="screenshot/bacaansholat_azharrivaldi.png" style="max-width:100%;">
-
-Sebelumnya sudah pernah saya buat dengan versi Native Kotlin, bisa liat tutorial dan demo aplikasinya disini https://github.com/AzharRivaldi/BacaanSholat
+bisa liat tutorial kode dan demo aplikasinya disini [https://github.com/23VannX/bacaan_sholat]
 
 ## 📄 License
 
